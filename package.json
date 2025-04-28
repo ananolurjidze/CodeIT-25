@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "codeit-final-project",
+=======
+  "name": "codeit_next_project",
+>>>>>>> fabc3e93820bfdcae368aca1129b6a904489a36c
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,6 +15,10 @@
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+<<<<<<< HEAD
     "next": "15.2.4"
+=======
+    "next": "15.2.3"
+>>>>>>> fabc3e93820bfdcae368aca1129b6a904489a36c
   }
 }
