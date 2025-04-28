@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh; 
+    width: 700px;
+    flex-direction: column;
+    text-align: center;
+    padding: 15px;
+    background-color: snow;
+    border: 1px solid black;
+  
+}
+  
+  .img {
+    width: 200px;
+    height: auto;
+    margin: 20px 0;
+  }
+
+  .title {
+    padding: 15px 10px;
+    background-color: grey;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .description {
+    max-width: 600px;
+    margin: 10px auto;
+    gap: 10 px 2px;
+    font-size: 20px;
+  }
